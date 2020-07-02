@@ -6,5 +6,6 @@
     <p> este es el home</p>
     <p>Este es otro parrafo</p>
     <p>Se esta agregando el tercer parrafo</p>
+    <p>ahora estoy en master</p>
 @endsection
 

@@ -59,7 +59,7 @@ class PortfolioController extends Controller
      */
     public function show($id)
     {
-       return $id;
+    
     }
 
     /**
